@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen0576&show_icons=true&locale=en" alt="naveen0576" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen0576&" alt="naveen0576" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen0576&" alt="Naveen0576" /></p>
